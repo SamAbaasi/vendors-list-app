@@ -1,0 +1,27 @@
+  /* BEGIN Bold */
+  @font-face {
+    font-family: 'IranianSansBold';
+    src: url('../public/fonts/IranianSansBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  /* END Bold */
+  /* BEGIN Regular */
+  @font-face {
+    font-family: 'IranianSans';
+    src: url('../public/fonts/IranianSansRegular.ttf') format('truetype'),
+       url('../public/fonts/IRANSans-web.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  /* END Regular */
+
+body {
+  direction: rtl;
+  box-sizing: border-box;
+  font-weight: 400;
+  line-height: 18.4px;
+  background-color: #f8f9fb;
+  padding: 20px;
+  font-family: 'IranianSans';
+}

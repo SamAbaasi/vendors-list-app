@@ -1,0 +1,19 @@
+.vendor-list {
+    &__header {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+        &-title {
+            margin-right: 5px;
+        }
+    }
+    &__items {
+        display: grid;
+        gap: 20px;
+        justify-content: center;
+    }
+}
+.vendor-cards__skeleton {
+    display: flex;
+    flex-direction: column;
+}

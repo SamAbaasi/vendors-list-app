@@ -1,0 +1,23 @@
+.vendor-card__skeleton {
+    border: solid 0.5px #e6e6e6;
+    box-shadow: rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    border-radius: 6px;
+    &-header {
+        position: relative;
+        background-color: #fff;
+    }
+    &-body {
+        background-color: #fff;
+        padding: 10px;
+        margin: 0;
+        border-radius: 6px;
+    }
+    &-title { 
+        display: flex;
+        justify-content: space-between;
+    }
+    &-rate { 
+        display: flex;
+    }
+}
