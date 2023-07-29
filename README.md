@@ -5,7 +5,7 @@ This project is a web application that displays a list of vendors using React an
 ### Screens
 |||
 |--|--|
-|![Screen](https://raw.githubusercontent.com/SamanAbasi/vendors-list-app/edit/master/screen.gif)
+![screens](https://github.com/SamanAbasi/vendors-list-app/assets/53538021/1d677f80-6ec7-40be-a944-e65818591de1)
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ This project is a web application that displays a list of vendors using React an
 - Display a list of vendors with their details (name, description, rating, etc.).
 - Load more vendors when scrolling to the bottom of the page.
 - Show skeleton loading UI while fetching vendors.
-- Handle empty vendor list and loading states.
+- Handle empty vendor lists and loading states.
 
 ## Prerequisites
 
