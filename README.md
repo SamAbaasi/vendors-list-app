@@ -64,18 +64,31 @@ In the project directory, you can run the following scripts:
 The project structure is organized as follows:
 
 vendor-list-challenge/
+
 ├── src/
+
 │ ├── api/ # Contains API functions
+
 │ ├── components/ # Reusable components
+
 │ ├── lib/ # Utility functions and constants
+
 │ ├── store/ # Redux store setup and slices
+
 │ ├── types/ # TypeScript type declarations
+
 │ ├── App.tsx # Main application component
+
 │ ├── index.tsx # Entry point
+
 │ └── ... # Other files and folders
+
 ├── public/
+
 ├── package.json
+
 ├── package-lock.json
+
 └── README.md
 
 
