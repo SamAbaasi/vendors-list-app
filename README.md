@@ -5,7 +5,9 @@ This project is a web application that displays a list of vendors using React an
 ### Screens
 |||
 |--|--|
-![screens](https://github.com/SamanAbasi/vendors-list-app/assets/53538021/1d677f80-6ec7-40be-a944-e65818591de1)
+
+https://github.com/SamanAbasi/vendors-list-app/assets/53538021/27a62407-a253-463c-8285-c55fcdd88133
+
 
 ## Table of Contents
 
