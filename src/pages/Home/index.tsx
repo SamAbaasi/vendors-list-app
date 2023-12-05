@@ -1,14 +1,8 @@
-import { Link } from "react-router-dom";
+import VendorListPage from "../VendorList";
 
 const Home = () => {
   return (
-    <div>
-      <ul>
-        <li>
-          <Link to="/vendor-list">Vendor List</Link>
-        </li>
-      </ul>
-    </div>
+      <VendorListPage />
   )
 }
 export default Home;
