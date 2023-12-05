@@ -25,7 +25,7 @@ const VendorListPage: React.FC = () => {
       page.current += 1;
       dispatch(fetchVendorsAsync(page.current));
     }
-  }, [entry])
+  }, [dispatch, entry])
   return (
     <div>
       <section className='vendor-list__header'>
