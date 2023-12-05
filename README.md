@@ -2,11 +2,9 @@
 
 This project is a web application that displays a list of vendors using React and Redux. The application allows users to view a list of vendors and load more vendors when scrolling to the bottom of the page. The vendor data is fetched from an API using Redux Thunk.
 
-### Screens
-|||
-|--|--|
+## Demo
 
-https://github.com/SamanAbasi/vendors-list-app/assets/53538021/27a62407-a253-463c-8285-c55fcdd88133
+**Live Demo**: [View Live Demo](https://vendors-list.netlify.app/)
 
 
 ## Table of Contents
